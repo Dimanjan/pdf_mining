@@ -1,0 +1,1 @@
+The file page2_extracted_by_docsumo.txt contains text extracted using Docsumo's tool. https://docsumo.com/free-tools/online-ocr-scanner
